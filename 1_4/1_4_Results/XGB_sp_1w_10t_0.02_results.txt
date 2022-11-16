@@ -1,0 +1,5 @@
+Best eta: 0.3
+Best max depth: 15
+Best subsample: 0.7
+Crossvalidation accuracy: 1.0
+Training duration for XGB is 0 s

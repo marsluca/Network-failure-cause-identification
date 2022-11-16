@@ -1,0 +1,12 @@
+Results for the TEST SET
+Accuracy: 0.9983581744952669
+Precision per class: [0.99829051 0.99849267]
+Global Precision: 0.9983583024177721
+Recall per class: [0.99924093 0.99660853]
+Global Recall: 0.9983581744952669
+F1-score: [0.9987655  0.99754971]
+Global F1-score: 0.9983577898279463
+
+Normalized confusion matrix
+[[9.99240933e-01 7.59066991e-04]
+ [3.39147287e-03 9.96608527e-01]]

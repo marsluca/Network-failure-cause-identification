@@ -1,0 +1,5 @@
+Best leaf_size: 12
+Best number of p: 1
+Best number of neighbors: 10
+Crossvalidation accuracy: 1.0
+Training duration for kNN is 0 s
