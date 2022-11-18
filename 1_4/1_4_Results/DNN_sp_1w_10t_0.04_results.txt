@@ -1,5 +1,5 @@
-Best number of layers: 1
-Best number of neurons: 10
-Best activation function: tanh
-Crossvalidation accuracy: 1.0
-Training duration for DNN is 3 s
+Best number of layers: 2
+Best number of neurons: 50
+Best activation function: logistic
+Crossvalidation accuracy: 0.99
+Training duration for DNN is 9 s

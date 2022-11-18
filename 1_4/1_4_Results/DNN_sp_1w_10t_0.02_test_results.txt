@@ -1,12 +1,12 @@
 Results for the TEST SET
-Accuracy: 0.9972208682862591
-Precision per class: [0.99672708 0.99820655]
-Global Precision: 0.997223208770569
-Recall per class: [0.99909941 0.99349755]
-Global Recall: 0.9972208682862591
-F1-score: [0.99791183 0.99584649]
-Global F1-score: 0.9972192346295318
+Accuracy: 0.9943575275711721
+Precision per class: [0.99309286 0.99690642]
+Global Precision: 0.9943712207724485
+Recall per class: [0.99845679 0.986228  ]
+Global Recall: 0.9943575275711721
+F1-score: [0.9957676  0.99153846]
+Global F1-score: 0.9943499348577328
 
 Normalized confusion matrix
-[[9.99099412e-01 9.00587955e-04]
- [6.50244798e-03 9.93497552e-01]]
+[[0.99845679 0.00154321]
+ [0.013772   0.986228  ]]
