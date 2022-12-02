@@ -1,8 +1,0 @@
-Results for the TEST SET
-Accuracy: 0.9983239697972517
-Precision per class: [0.99836729 0.99823791]
-Global Precision: 0.9983239056256707
-Recall per class: [0.99911228 0.99676153]
-Global Recall: 0.9983239697972517
-F1-score: [0.99873965 0.99749917]
-Global F1-score: 0.9983236621788626
